@@ -19,7 +19,7 @@ class divide(a, b) {
   if (b == 0) {
        console.log("Error");
   } else
-  return x / y;
+  return a / b;
 }
   
   const Calculator = new Calculator();
