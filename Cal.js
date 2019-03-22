@@ -22,7 +22,7 @@ class divide(a, b) {
   return a / b;
 }
   
-  const Calculator = new Calculator();
-  console.log(Calculator.add(2,3));
+ const Calculator = new Calculator();
+ console.log(Calculator.add(2,3));
   }
 }
